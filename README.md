@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aleg448 (AKA Juan Cadavid) 
+- 👋 Hi, I’m @aleg448 (AKA Juan C) 
 - 👀 I’m interested in web 3.0 technologies, decentralized computing and databases, and deep learning
 - 🌱 I’m currently learning Data science!
 - 💞️ I’m looking to collaborate on project focused on combating antrophogenic climate change

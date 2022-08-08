@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data science!
 - 💞️ I’m looking to collaborate on project focused on combating antrophogenic climate change
 - 📫 How to reach me aleg448@gmail.com
+-    My linkedIn: https://www.linkedin.com/in/juan-pablo-cadavid-aguirre/
 
 <!---
 aleg448/aleg448 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

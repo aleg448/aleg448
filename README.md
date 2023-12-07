@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @aleg448 (AKA Juan C) 
-- 👀 I’m interested in web 3.0 technologies, decentralized computing and databases, and deep learning
-- 🌱 I’m currently learning Machine Learning models!
-- 💞️ I’m looking to collaborate on project focused on combating antrophogenic climate change
+- 👋 Hi, I’m Kalli 
+- 🌱 I’m currently working on Machine Learning models mainly LLMs and NLP!
+- 💞️ I’m looking to collaborate on projects focused on combating anthropogenic climate change
 - 📫 How to reach me aleg448@gmail.com
 -    My linkedIn: https://www.linkedin.com/in/juan-pablo-cadavid-aguirre/
 -    My portfolio: https://linktr.ee/jpcadavida
